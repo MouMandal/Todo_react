@@ -1,0 +1,23 @@
+
+h3{
+    text-align: center;
+}
+.heading {
+    text-align: center;
+}
+
+.kg-row {
+    margin: 10px 5px;
+}
+
+input {
+    width: 100%;
+}
+
+.kg-items {
+    text-align: left;
+}
+
+.kg-button {
+    width: 80px;
+}
